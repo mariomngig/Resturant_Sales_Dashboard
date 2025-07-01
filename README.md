@@ -5,11 +5,11 @@ A data-driven Excel dashboard project designed to monitor and analyze pizza sale
 
 * To build an interactive and insightful sales dashboard that enables stakeholders to:
 
-- Monitor real-time sales performance
+  - Monitor real-time sales performance
 
-- Identify sales trends by time, category, and size
+  - Identify sales trends by time, category, and size
 
-- Make informed decisions to optimize revenue and operations
+  - Make informed decisions to optimize revenue and operations
 
 <h2>📌 Key Features</h2>
 <h3>✅ KPIs Tracked:</h3>
