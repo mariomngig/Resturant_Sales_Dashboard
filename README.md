@@ -1,40 +1,64 @@
-Project Brief: Pizza Sales Dashboard
+<h1>🍕 Pizza Sales Dashboard</h1>
+A data-driven Excel dashboard project designed to monitor and analyze pizza sales performance using a combination of SQL and Excel. This project showcases how raw transactional data can be transformed into actionable business insights through clear visualizations and essential KPIs.
 
-Objective:
-Create a comprehensive Pizza Sales Dashboard using Excel and SQL queries to ensure data accuracy and present key performance indicators (KPIs) along with insightful visualizations.
+<h2>🎯 Objective</h2>
+* To build an interactive and insightful sales dashboard that enables stakeholders to:
 
-KPIs:
+* Monitor real-time sales performance
 
-Total Revenue,
-Total Orders,
-Total Pizzas Sold,
-Average Order Value,
-Average Pizzas per Order
+* Identify sales trends by time, category, and size
 
-Charts:
+* Make informed decisions to optimize revenue and operations
 
-Daily and Hourly Trend Charts: Display trends in total orders to identify peak sales periods.
+<h2>📌 Key Features</h2>
+<h3>✅ KPIs Tracked:</h3>
+* Total Revenue
 
-Sales by Pizza Category: Illustrate sales distribution across pizza categories.
+* Total Orders
 
-Sales by Pizza Size: Show proportion of sales based on pizza sizes.
+* Total Pizzas Sold
 
-Total Pizzas Sold by Category: Bar chart for quantity sold in each category.
+* Average Order Value (AOV)
 
-Top 5 and Worst 5 Sellers: Identify high-performing and underperforming outlets.
+* Average Pizzas per Order
 
-Additional Features:
+<h3>📈 Charts & Visualizations:</h3>
+* Daily & Hourly Sales Trends
 
-Timeline Slicer: Allows users to filter data for customized analyses.
-Data Validation:
-SQL queries implemented to ensure data accuracy and integrity.
+* Understand peak order times and busy sales periods
 
-Benefits:
+* Sales by Pizza Category
 
-Informed decision-making for sales strategies and inventory management.
-Real-time insights for performance monitoring of categories, sizes, and outlets.
-User-friendly interface for accessibility.
+* Breakdown of sales by pizza type (e.g., Classic, Veggie, etc.)
 
-Conclusion:
+* Sales by Pizza Size
 
-The Pizza Sales Dashboard provides actionable insights, combining Excel and SQL for dynamic data analysis. It empowers stakeholders to optimize business performance and maximize profitability.
+* Analyze revenue distribution by pizza size (Small, Medium, Large)
+
+* Pizzas Sold by Category
+
+* Bar chart of quantity sold across different pizza categories
+
+* Top 5 / Worst 5 Sellers
+
+* Identify high and low-performing outlets or items
+
+
+<h3>🔍 Interactivity & Validation:</h3>
+* Timeline Slicer
+
+* Filter results by date to perform dynamic and custom time-based analysis
+
+* Data Validation with SQL
+
+* SQL queries used to preprocess and validate raw data before visualization
+
+<h2>🚀 Benefits</h2>
+* Enables data-driven decisions for inventory, pricing, and marketing strategies
+
+* Supports real-time performance tracking by various dimensions (time, size, category)
+
+* Built with usability in mind, making it accessible for both analysts and non-technical users
+
+📊 Preview
+![image](https://github.com/user-attachments/assets/19fb2c28-c717-4aec-9ef0-ac138abf0864)
