@@ -65,5 +65,6 @@ A data-driven Excel dashboard project designed to monitor and analyze pizza sale
 * Built with usability in mind, making it accessible for both analysts and non-technical users
 
 <h2>📊 Preview</h2>
+
 ![1](https://github.com/user-attachments/assets/f913bfd7-00c8-403d-be21-d021654b2c85)
 
