@@ -2,16 +2,18 @@
 A data-driven Excel dashboard project designed to monitor and analyze pizza sales performance using a combination of SQL and Excel. This project showcases how raw transactional data can be transformed into actionable business insights through clear visualizations and essential KPIs.
 
 <h2>🎯 Objective</h2>
+
 * To build an interactive and insightful sales dashboard that enables stakeholders to:
 
-* Monitor real-time sales performance
+- Monitor real-time sales performance
 
-* Identify sales trends by time, category, and size
+- Identify sales trends by time, category, and size
 
-* Make informed decisions to optimize revenue and operations
+- Make informed decisions to optimize revenue and operations
 
 <h2>📌 Key Features</h2>
 <h3>✅ KPIs Tracked:</h3>
+
 * Total Revenue
 
 * Total Orders
@@ -23,6 +25,7 @@ A data-driven Excel dashboard project designed to monitor and analyze pizza sale
 * Average Pizzas per Order
 
 <h3>📈 Charts & Visualizations:</h3>
+
 * Daily & Hourly Sales Trends
 
 * Understand peak order times and busy sales periods
@@ -45,6 +48,7 @@ A data-driven Excel dashboard project designed to monitor and analyze pizza sale
 
 
 <h3>🔍 Interactivity & Validation:</h3>
+
 * Timeline Slicer
 
 * Filter results by date to perform dynamic and custom time-based analysis
@@ -61,4 +65,5 @@ A data-driven Excel dashboard project designed to monitor and analyze pizza sale
 * Built with usability in mind, making it accessible for both analysts and non-technical users
 
 📊 Preview
-![image](https://github.com/user-attachments/assets/19fb2c28-c717-4aec-9ef0-ac138abf0864)
+![1](https://github.com/user-attachments/assets/f913bfd7-00c8-403d-be21-d021654b2c85)
+
